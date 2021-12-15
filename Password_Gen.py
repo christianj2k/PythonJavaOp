@@ -21,7 +21,7 @@ def passV1(x):
     print("Password: " + password)
 
 if(len(sys.argv) == 1):
-    user = input("Enter even number of characters for password:\n")
+    user = input("Enter the character count for the password:\n")
     passV1(user)
 else:
     user = sys.argv[1]
