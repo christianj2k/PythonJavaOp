@@ -139,5 +139,9 @@ def Search():
                         show_pass(SSID_Cat, SSID_Search)
                 if(Real_Net == False):
                     print("\nSSID Network entered does not exist, please try again\n")
-        
-Search()
+
+def main():
+    Search()
+
+if __name__ == "__main__":
+    main()

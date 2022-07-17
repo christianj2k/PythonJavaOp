@@ -1,0 +1,54 @@
+element.style{}
+TH.Title {
+    background-color: #A0E0A0;
+}
+TH {
+    font-size: 80%;
+}
+th {
+    text-align: -webkit-center;
+}
+user agent stylesheet
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+TD {
+    font-size: 80%;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+BODY {
+    color: black;
+    background-color: white;
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 80%;
+}
